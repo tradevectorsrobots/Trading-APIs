@@ -50,7 +50,7 @@
     most feature-rich trading platform in the marketplace. Download Takion Software and Takion API in .NET
     
     
-### Sterling Trader Pro with LightSpeed Trading API 
+### [Sterling Trader Pro with LightSpeed Trading API](https://sterlingtradingtech.com/ "Sterling Trading Tech")
 
     Sterling traders Pro - Light Speed Trading API - A division of Lime Brokerage
     Sterling Trader Pro is a full-featured Level II direct access trading platform designed for professionals
